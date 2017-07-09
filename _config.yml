@@ -1,0 +1,11 @@
+# basic options
+title:  Mejouwblog
+author: Csch
+email: your-email@domain.com
+description:  Mejouw
+twitter_username:  twit
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
